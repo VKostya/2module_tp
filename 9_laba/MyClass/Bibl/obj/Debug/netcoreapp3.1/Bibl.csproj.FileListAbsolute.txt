@@ -1,0 +1,8 @@
+/Users/konstantin/Desktop/программирование/2_семестр/9_laba/MyClass/Bibl/bin/Debug/netcoreapp3.1/Bibl.deps.json
+/Users/konstantin/Desktop/программирование/2_семестр/9_laba/MyClass/Bibl/bin/Debug/netcoreapp3.1/Bibl.dll
+/Users/konstantin/Desktop/программирование/2_семестр/9_laba/MyClass/Bibl/bin/Debug/netcoreapp3.1/Bibl.pdb
+/Users/konstantin/Desktop/программирование/2_семестр/9_laba/MyClass/Bibl/obj/Debug/netcoreapp3.1/Bibl.csprojAssemblyReference.cache
+/Users/konstantin/Desktop/программирование/2_семестр/9_laba/MyClass/Bibl/obj/Debug/netcoreapp3.1/Bibl.AssemblyInfoInputs.cache
+/Users/konstantin/Desktop/программирование/2_семестр/9_laba/MyClass/Bibl/obj/Debug/netcoreapp3.1/Bibl.AssemblyInfo.cs
+/Users/konstantin/Desktop/программирование/2_семестр/9_laba/MyClass/Bibl/obj/Debug/netcoreapp3.1/Bibl.dll
+/Users/konstantin/Desktop/программирование/2_семестр/9_laba/MyClass/Bibl/obj/Debug/netcoreapp3.1/Bibl.pdb

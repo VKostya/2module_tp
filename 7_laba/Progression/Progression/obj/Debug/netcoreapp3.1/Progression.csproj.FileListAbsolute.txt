@@ -1,0 +1,11 @@
+/Users/konstantin/Desktop/программирование/2_семестр/7_laba/Progression/Progression/obj/Debug/netcoreapp3.1/Progression.csprojAssemblyReference.cache
+/Users/konstantin/Desktop/программирование/2_семестр/7_laba/Progression/Progression/obj/Debug/netcoreapp3.1/Progression.AssemblyInfoInputs.cache
+/Users/konstantin/Desktop/программирование/2_семестр/7_laba/Progression/Progression/obj/Debug/netcoreapp3.1/Progression.AssemblyInfo.cs
+/Users/konstantin/Desktop/программирование/2_семестр/7_laba/Progression/Progression/bin/Debug/netcoreapp3.1/Progression
+/Users/konstantin/Desktop/программирование/2_семестр/7_laba/Progression/Progression/bin/Debug/netcoreapp3.1/Progression.deps.json
+/Users/konstantin/Desktop/программирование/2_семестр/7_laba/Progression/Progression/bin/Debug/netcoreapp3.1/Progression.runtimeconfig.json
+/Users/konstantin/Desktop/программирование/2_семестр/7_laba/Progression/Progression/bin/Debug/netcoreapp3.1/Progression.runtimeconfig.dev.json
+/Users/konstantin/Desktop/программирование/2_семестр/7_laba/Progression/Progression/bin/Debug/netcoreapp3.1/Progression.dll
+/Users/konstantin/Desktop/программирование/2_семестр/7_laba/Progression/Progression/bin/Debug/netcoreapp3.1/Progression.pdb
+/Users/konstantin/Desktop/программирование/2_семестр/7_laba/Progression/Progression/obj/Debug/netcoreapp3.1/Progression.dll
+/Users/konstantin/Desktop/программирование/2_семестр/7_laba/Progression/Progression/obj/Debug/netcoreapp3.1/Progression.pdb
